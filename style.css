@@ -1,0 +1,173 @@
+
+                .menu
+                {position: absolute;
+                width: 527px;
+                height: 41.25px;
+                left: 31px;
+                top: 46px;
+
+                font-family: Roboto Slab;
+                font-style: normal;
+                font-weight: 300;
+                font-size: 27.955px;
+                line-height: 37px;
+
+                color: #3E3E67;}
+
+                .ciclo
+                {position: absolute; 
+                width: 300.23px; 
+                height: 239.97px; 
+                left: 115.28px; 
+                top: 244.41px; 
+                
+                font-family: Assistant; 
+                font-style: normal; 
+                font-weight: 800; 
+                font-size: 61.66px; 
+                line-height: 81px;
+                color: #2A2752;}
+
+                .ciclotexto
+                {position: absolute; 
+                width: 896px; 
+                height: 360px; 
+                left: 436px; 
+                top: 204px; 
+               
+                font-family:Roboto Slab; 
+                font-style: normal; 
+                font-weight: 300; 
+                font-size: 32.2826px; 
+                line-height: 43px;
+                color: #3E3E67;}
+
+                .maleficiostitulo
+                {position: absolute;
+                text-align: center;
+
+                font: Assistant;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 48px;
+                line-height: 63px;
+                color: #FFDDE9;
+                
+                background: #8F4C6E; width: 1300px; height: 65px; left: 18px; top: 713px;
+                border-radius: 20px;}
+
+                .maleficios 
+                { position: absolute; 
+                background: #8F4C6E;
+                height: 32.22px;
+                font-family: Roboto Slab; 
+                font-style: normal;
+                font-weight: 900; 
+                font-size: 24.6386px;
+                line-height: 32px;
+                color: #FFFFFF;}
+
+                /*Posição dos Titulos:*/
+
+                #Composição 
+                {width: 144.04px; 
+                left: 74.11px; 
+                top: 919px;
+                background: width: 210.38px; height: 42.64px; left: 40px;top: 919px;}
+
+                #SaudeIntima
+                {width: 156.36px; 
+                left: 67.48px; 
+                top: 1351.12px;
+                background:width: 210.38px; height: 42.64px; left: 40.95px; top: 1351.12px;}
+
+                #MeioAmbiente
+                {width: 176.26px; 
+                left: 1133.28px; 
+                top: 1351.12px;
+                background: width: 210.38px; height: 42.64px; left: 1116.22px; top: 1351.12px;}
+
+                #Decomposição
+                {width: 310.83px; 
+                left: 997.72px; 
+                top: 919px;
+                background: width: 346.84px; height: 42.64px; left: 979.76px; top: 919px;}
+
+                .maleficiostexto
+                { position: absolute; 
+                background: rgba(255, 242, 230, 0.53);
+                font-family: Roboto Slab; 
+                font-style: normal;
+                font-weight: 300;
+                font-size: 24.6386px; 
+                line-height: 32px; 
+                color: #3E3E67;}
+
+                /* Posição dos textos:*/
+
+                #Composiçãotexto{
+                width: 597px; 
+                height: 302px; 
+                left: 53px; 
+                top: 971px; 
+                background: width: 614px; height: 330px; left: 40px; top: 959px;}
+
+                #SaudeIntimatexto{
+                width: 597px;
+                height: 182.89px; 
+                left: 53px;
+                top: 1404px;
+                background: width: 614px; height: 162px; left: 40px; top: 1394px;}
+
+                #MeioAmbientetexto{
+                width: 602.7px; 
+                height: 237px; 
+                left: 692px;
+                top: 1404px;
+                background: width: 647px; height: 162px; left: 690px; top: 1394px;}
+                
+
+                #Decomposiçãotexto
+                {
+                width: 602.7px;
+                height: 204.69px; 
+                left: 692px;
+                top: 971px;
+                background:width: 647px; height: 327px; left: 690px; top: 962px;}
+
+                #RecursosPosição
+                {
+                position: absolute; 
+                background-color: #3E3E67; width: 1300px; height: 570px; left: 46.26px; top: 1789px;
+                width: 834px;
+                height: 382px;
+                left: 234px;
+                top: 1874px;
+                border-radius: 20px;
+
+                }
+        
+                .recursos
+                { 
+                font-family: Assistant; 
+                font-style: normal; 
+                font-weight: 800; 
+                font-size: 44.642px; 
+                line-height: 58px;
+                color: #FFDDE9;
+                text-align: center;
+                }
+
+
+                .recursostexto
+                {position: absolute;
+                font-family: Roboto Slab; 
+                font-style: normal; 
+                font-weight: normal; 
+                font-size: 27.9012px;
+                line-height: 37px; 
+                color: #FFDDE9;
+                
+                }
+
+                
